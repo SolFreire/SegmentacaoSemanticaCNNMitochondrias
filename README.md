@@ -1,0 +1,1 @@
+# Segmenta-o-Sem-ntica-com-CNN---Mitoc-ndrias-celulares
